@@ -54,7 +54,7 @@
                 <configuration>
                     <artifactSet>
                         <excludes>
-                            <exclude>org.superfuntime.chatbot:chatbot</exclude>
+                            <exclude>org.superfuntime.chatty:chatty</exclude>
                         </excludes>
                     </artifactSet>
                 </configuration>
